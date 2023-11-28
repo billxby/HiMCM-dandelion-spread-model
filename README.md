@@ -1,0 +1,1 @@
+This model was used in the <a href="https://www.comap.com/contests/himcm-midmcm">HiMCM 2023 contest</a> as a proposed model to solve Problem A
